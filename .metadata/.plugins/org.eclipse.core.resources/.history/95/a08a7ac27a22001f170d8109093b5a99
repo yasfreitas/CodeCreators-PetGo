@@ -1,0 +1,5 @@
+package com.petGo.entities;
+
+public class Especialidade {
+
+}

@@ -1,0 +1,5 @@
+package com.petGo.repository;
+
+public interface EspecialidadeRepository {
+
+}
